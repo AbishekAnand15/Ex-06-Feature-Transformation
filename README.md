@@ -17,10 +17,6 @@ Feature Transformation is a technique by which we can boost our model performanc
 
 ## PROGRAM AND OUTPUT:
 ```
-NAME : R . JOYCE BEULAH
-REG NO: 212222230058
-```
-```
 import pandas as pd
 from scipy import stats
 import numpy as np
